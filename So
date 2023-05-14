@@ -1,0 +1,29 @@
+1. update ubuntu : sudo apt update
+
+2. install gnome tweaks : sudo apt install gnome-tweaks
+
+3. install gnome extensions : sudo apt install gnome-shell-extensions
+
+4. download Theme : https://www.gnome-look.org/p/1241688/
+
+5. download Icon : https://www.gnome-look.org/p/1309810/
+
+6. download Shell : https://www.gnome-look.org/p/1220826/
+
+7. download Wallpaper : https://4kwallpapers.com/nature/macos-catalina-mountains-island-daytime-stock-5k-188.html
+
+8. install Snapd : sudo apt install snapd (agar perintah "snap" dapat bekerja)
+
+9. install Slack : sudo snap install slack
+
+10. install Spotify : sudo snap install spotify
+
+11. install Apple Music : sudo snap install apple-music-for-linux
+
+12. install Icloud (isinya banyak aplikasi khusus) : sudo snap install icloud-for-linux
+
+13. install extension : Compiz alike magic lamp effect
+
+14. install extension : Dash to dock animator
+
+15. install extension : Desktop cube
